@@ -29,10 +29,10 @@ assignment.sumOfNumbers = sumOfNumbers;
  * @param {Array} arrayOfNumbers the array containing even or non-even numbers
  * @returns number the count of even numbers
  */
-function countEvenNumbers(arrayOfNumbers) {
-    return arrayOfNumbers.filter((numbers) => numbers % 2 === 0).length;
-}
-assignment.countEvenNumbers = countEvenNumbers;
+// function countEvenNumbers(arrayOfNumbers) {
+//     return arrayOfNumbers.filter((numbers) => numbers % 2 === 0).length;
+// }
+// assignment.countEvenNumbers = countEvenNumbers;
 
 
 /**
